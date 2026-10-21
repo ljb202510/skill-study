@@ -10,7 +10,7 @@ Agent Skills 拆解学习笔记。每期抓一个主题，读原文、拆结构�
 
 | 期数 | 主题 | 内容 |
 |---|---|---|
-| 01 | [全球安装量 Top 10 行级拆解](./agent-skills-top10/top10-agent-skills-teardown.md) | 十个最火 skill 的 SKILL.md 全文拆解 + 六种架构范式 + 12 条写作手法 |
+| 01 | [全球安装量 Top 10 行级拆解](./agent-skills-top10/top10-agent-skills-teardown.md) | 十个最火 skill 的 SKILL.md 全文拆解 + 六种架构范式 + 12 条写作手法 + 卡兹克推荐清单（自研 6 + 社区 7）与中文生态写法差异 |
 
 ---
 
@@ -30,6 +30,8 @@ Agent Skills 拆解学习笔记。每期抓一个主题，读原文、拆结构�
 | 8 | hyperframes | heygen-com | 1.1M | 197 | 入口路由 |
 | 9 | setup-matt-pocock-skills | mattpocock | 1.0M | 119 | 安装器 / 契约 |
 | 10 | reddit-automation | flowkit-labs | 1.0M | 121 | 垂直业务流 |
+
+**另含附录 A：数字生命卡兹克推荐清单** —— 自研 6 个（khazix-writer / hv-analysis / neat-freak / storage-analyzer / leader / aihot）+ 社区精选 7 个，以及中文 skill 与英文 Top10 的三个写法差异。
 
 ### 三个核心结论
 

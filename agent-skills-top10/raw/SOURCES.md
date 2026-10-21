@@ -30,6 +30,19 @@
 - `reddit-automation` 的 frontmatter 中标注为 **MIT**。
 - 其余仓库的具体授权请以各自 LICENSE 为准。
 
+## 数字生命卡兹克（Khazix）自研 skill
+
+来源仓库：**KKKKhazix/khazix-skills**（MIT，2026-04-06 开源，抓取时 21,559 star / 2,270 fork）
+
+| 本地文件 | 源路径 | 抓取时行数 |
+|---|---|---|
+| `khazix/khazix-writer.md` | `khazix-writer/SKILL.md` | 415 |
+| `khazix/hv-analysis.md` | `hv-analysis/SKILL.md` | 324 |
+| `khazix/neat-freak.md` | `neat-freak/SKILL.md` | 211 |
+| `khazix/storage-analyzer.md` | `storage-analyzer/SKILL.md` | 105 |
+| `khazix/leader.md` | `leader/SKILL.md` | 64 |
+| `khazix/aihot.md` | `aihot/SKILL.md` | 44 |
+
 ## 安装量与 star 数据
 
 本仓库文档中的安装量数据来自 skills.sh 登记处（All Time 榜），star 数据来自第三方 GitHub tracker。
